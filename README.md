@@ -1,3 +1,4 @@
 # helloword
-jast a repository
+just a repository
 add hello
+another repository
